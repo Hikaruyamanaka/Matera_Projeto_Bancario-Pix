@@ -1,6 +1,6 @@
 # Bootcamp_Java_Matera_2023
 
-📌<h2> Descrição do Projeto </h2>
+<h2>📌 Descrição do Projeto </h2>
 <h3>Projeto feito durante um bootcamp, nele foi construído um sistema bancário de Pix e nele você encontra: </h3>
 
 - Debito em uma conta;
@@ -9,7 +9,7 @@
 - Pix;
 - Sendo que Transferência só aceita operações do mesmo banco.
 
-💻<h2>Tecnologias utilizadas </h2>
+<h2>💻 Tecnologias utilizadas </h2>
 <h3>Nesse projeto foram usadas as seguintes tecnologias: </h3>
 
 - IDE Eclipse;
