@@ -1,6 +1,6 @@
 # Bootcamp_Java_Matera_2023
 
-Projeto feito durante um bootcamp, nele foi construído um sistema de Pix e nele você encontra:
+Projeto feito durante um bootcamp, nele foi construído um sistema bancário de Pix e nele você encontra:
 
 - Debito em uma conta;
 - Crédito em uma conta;
