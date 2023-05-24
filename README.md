@@ -22,6 +22,4 @@ Nesse projeto foram usadas as seguintes tecnologias:
 - JUnit;
 - MySql;
 - Documentação com Swagger;
-- Git/GitHub;
-- Deploy no [Heroku](https://dinisialtda.herokuapp.com/swagger-ui/index.html#/).
-
+- Git/GitHub.
