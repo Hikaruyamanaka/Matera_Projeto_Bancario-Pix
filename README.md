@@ -9,8 +9,8 @@
 - Pix;
 - Sendo que Transferência só aceita operações do mesmo banco.
 
-💻Tecnologias utilizadas
-Nesse projeto foram usadas as seguintes tecnologias:
+💻 <h2>Tecnologias utilizadas </h2>
+<h3>Nesse projeto foram usadas as seguintes tecnologias: </h3>
 
 - IDE Eclipse;
 - Lógica de Programação;
