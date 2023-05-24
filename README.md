@@ -1,12 +1,27 @@
-# bootcamp2023
-Matera's bootcamp2023 code
+# Bootcamp_Java_Matera_2023
 
-Debito em uma conta
+Projeto feito durante um bootcamp, nele foi construído um sistema de Pix e nele você encontra:
 
-Crédito em uma conta
+- Debito em uma conta;
+- Crédito em uma conta;
+- Transferência entre contas;
+- Pix;
+- Sendo que Transferência só aceita operações do mesmo banco.
 
-Transferência entre contas
+💻Tecnologias utilizadas
+Nesse projeto foram usadas as seguintes tecnologias:
 
-Pix
+- IDE Eclipse;
+- Lógica de Programação;
+- Linguagem de programação Java;
+- Spring Boot;
+- MVC;
+- Hibernate;
+- JPA;
+- Testes no Postman;
+- JUnit;
+- MySql;
+- Documentação com Swagger;
+- Git/GitHub;
+- Deploy no [Heroku](https://dinisialtda.herokuapp.com/swagger-ui/index.html#/).
 
-Sendo que Transferência só aceita operações do mesmo banco.
